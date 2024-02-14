@@ -1,0 +1,6 @@
+@EfMutischema_HostAddress = http://localhost:5077
+
+GET {{EfMutischema_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
